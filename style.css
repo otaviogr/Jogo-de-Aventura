@@ -1,7 +1,17 @@
 body{
 background-color:beige;
-color:aquamarine;
+color:red;
 display:flex;
 justify-content:center;
 align-items:center;
+height: 700px
+margin 0;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+button {
+    background-color:rgb(150, 255, 45);
+    color:gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
